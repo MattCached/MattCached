@@ -23,11 +23,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Neovim](https://img.shields.io/badge/NeoVim-%3333.svg?&style=flat&logo=neovim&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000.svg?style=flat&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 
 <br />
 
   ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=MattCached&theme=blue-green)
 
 <br />
+
+<!-- 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+-->
